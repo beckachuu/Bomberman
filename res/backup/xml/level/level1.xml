@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+
+	<textures>
+		<texture id="WALL" source="res/UI/image/stage/jungle/tree.png"/>
+		<texture id="GRASS" source="res/UI/image/stage/jungle/grass.png"/>
+		<texture id="BRICK" source="res/UI/image/stage/jungle/leaf.png"/>
+		<texture id="BRICK_EXP_0" source="res/UI/image/stage/jungle/leaf_exp_0.png"/>
+		<texture id="BRICK_EXP_1" source="res/UI/image/stage/jungle/leaf_exp_1.png"/>
+		<texture id="BRICK_EXP_2" source="res/UI/image/stage/jungle/leaf_exp_2.png"/>
+		<texture id="BRICK_EXP_3" source="res/UI/image/stage/jungle/leaf_exp_3.png"/>
+		<texture id="PORTAL_CLOSE" source="res/UI/image/stage/jungle/portal_close.png"/>
+		<texture id="PORTAL_OPEN" source="res/UI/image/stage/jungle/portal_open.png"/>
+		
+		<texture id="DUMMY_MOVE_0" source="res/UI/image/character/dummy/move0.png"/>
+		<texture id="DUMMY_MOVE_1" source="res/UI/image/character/dummy/move1.png"/>
+		<texture id="DUMMY_MOVE_2" source="res/UI/image/character/dummy/move2.png"/>
+		<texture id="DUMMY_MOVE_3" source="res/UI/image/character/dummy/move3.png"/>
+		<texture id="DUMMY_MOVE_4" source="res/UI/image/character/dummy/move4.png"/>
+		<texture id="DUMMY_MOVE_5" source="res/UI/image/character/dummy/move5.png"/>
+		<texture id="DUMMY_MOVE_6" source="res/UI/image/character/dummy/move6.png"/>
+		<texture id="DUMMY_MOVE_7" source="res/UI/image/character/dummy/move7.png"/>
+		
+		<texture id="DUMMY_DIE_0" source="res/UI/image/character/dummy/die0.png"/>
+		<texture id="DUMMY_DIE_1" source="res/UI/image/character/dummy/die1.png"/>
+		<texture id="DUMMY_DIE_2" source="res/UI/image/character/dummy/die2.png"/>
+		
+	</textures>
+
+	<map tileSize="64" tileWidth="31" tileHeight="13">
+		<data encoding="custom">
+###############################
+#p x *        *  ** * *      *#
+# #*# # #*# # #*# # # # # #*# #
+#   1* * * * **      *    **  #
+# #*# # # # # # # # # # # # #*#
+#  1       *     **      *  **#
+# # #*# # # # # #*#*#*#*# # # #
+#   *        *   * *** *      #
+# # # # #*# # # # # # #*# #*# #
+#   ****         *            #
+# # # # # # # # # #*# # # # #*#
+#  ** *   *                   #
+###############################
+</data>
+	</map>
+	
+</level>

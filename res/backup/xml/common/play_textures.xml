@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textures>
+    <character name="Bomberman" type="Player" commonSource="res/UI/image/character/bomberman/">
+        <texture id="BOMBER_MOVE_UP_0" source="up0.png"/>
+        <texture id="BOMBER_MOVE_UP_1" source="up1.png"/>
+        <texture id="BOMBER_MOVE_UP_2" source="up2.png"/>
+        <texture id="BOMBER_MOVE_UP_3" source="up3.png"/>
+        <texture id="BOMBER_MOVE_UP_4" source="up4.png"/>
+        <texture id="BOMBER_MOVE_UP_5" source="up5.png"/>
+        <texture id="BOMBER_MOVE_UP_6" source="up6.png"/>
+        <texture id="BOMBER_MOVE_UP_7" source="up7.png"/>
+
+        <texture id="BOMBER_MOVE_DOWN_0" source="down0.png"/>
+        <texture id="BOMBER_MOVE_DOWN_1" source="down1.png"/>
+        <texture id="BOMBER_MOVE_DOWN_2" source="down2.png"/>
+        <texture id="BOMBER_MOVE_DOWN_3" source="down3.png"/>
+        <texture id="BOMBER_MOVE_DOWN_4" source="down4.png"/>
+        <texture id="BOMBER_MOVE_DOWN_5" source="down5.png"/>
+        <texture id="BOMBER_MOVE_DOWN_6" source="down6.png"/>
+        <texture id="BOMBER_MOVE_DOWN_7" source="down7.png"/>
+
+        <texture id="BOMBER_MOVE_LEFT_0" source="left0.png"/>
+        <texture id="BOMBER_MOVE_LEFT_1" source="left1.png"/>
+        <texture id="BOMBER_MOVE_LEFT_2" source="left2.png"/>
+        <texture id="BOMBER_MOVE_LEFT_3" source="left3.png"/>
+        <texture id="BOMBER_MOVE_LEFT_4" source="left4.png"/>
+        <texture id="BOMBER_MOVE_LEFT_5" source="left5.png"/>
+        <texture id="BOMBER_MOVE_LEFT_6" source="left6.png"/>
+        <texture id="BOMBER_MOVE_LEFT_7" source="left7.png"/>
+
+        <texture id="BOMBER_MOVE_RIGHT_0" source="right0.png"/>
+        <texture id="BOMBER_MOVE_RIGHT_1" source="right1.png"/>
+        <texture id="BOMBER_MOVE_RIGHT_2" source="right2.png"/>
+        <texture id="BOMBER_MOVE_RIGHT_3" source="right3.png"/>
+        <texture id="BOMBER_MOVE_RIGHT_4" source="right4.png"/>
+        <texture id="BOMBER_MOVE_RIGHT_5" source="right5.png"/>
+        <texture id="BOMBER_MOVE_RIGHT_6" source="right6.png"/>
+        <texture id="BOMBER_MOVE_RIGHT_7" source="right7.png"/>
+
+        <texture id="BOMBER_DIE_0" source="die0.png"/>
+        <texture id="BOMBER_DIE_1" source="die1.png"/>
+        <texture id="BOMBER_DIE_2" source="die2.png"/>
+        <texture id="BOMBER_DIE_3" source="die3.png"/>
+        <texture id="BOMBER_DIE_4" source="die4.png"/>
+        <texture id="BOMBER_DIE_5" source="die5.png"/>
+
+        <texture id="BOMBER_IDLE_UP_0" source="up0.png"/>
+        <texture id="BOMBER_IDLE_DOWN_0" source="down0.png"/>
+        <texture id="BOMBER_IDLE_LEFT_0" source="left0.png"/>
+        <texture id="BOMBER_IDLE_RIGHT_0" source="right0.png"/>
+    </character>
+    
+    <projectile name="Bomb" type="StaticObj" commonSource="res/UI/image/bomb/">
+        <texture id="BOMB_0" source="bomb0.png"/>
+        <texture id="BOMB_1" source="bomb1.png"/>
+        <texture id="BOMB_2" source="bomb2.png"/>
+        <texture id="BOMB_3" source="bomb3.png"/>
+        <texture id="BOMB_4" source="bomb4.png"/>
+        <texture id="BOMB_5" source="bomb5.png"/>
+        <texture id="BOMB_6" source="bomb6.png"/>
+
+        <texture id="BOMB_EXP" source="bomb_exp.png"/>
+        <texture id="FLAME_UP" source="exp_up.png"/>
+        <texture id="FLAME_DOWN" source="exp_down.png"/>
+        <texture id="FLAME_LEFT" source="exp_left.png"/>
+        <texture id="FLAME_RIGHT" source="exp_right.png"/>
+        <texture id="FLAME_HORIZONTAL" source="exp_horizontal.png"/>
+        <texture id="FLAME_VERTICAL" source="exp_vertical.png"/>
+    </projectile>
+
+    <item name="Item" type="Tile" commonSource="res/UI/image/item/">
+        <texture id="ADD_BOMB" source="add_bomb.png"/>
+        <texture id="ADD_FLAME" source="add_flame.png"/>
+        <texture id="ADD_LIFE" source="add_life.png"/>
+        <texture id="ADD_SPEED" source="add_speed.png"/>
+        <texture id="IN_VUL" source="in_vul.png"/>
+    </item>
+
+    <special_scene commonSource="res/UI/image/special_scene/">
+        <texture id="YOU_WON" source="you_won.png"/>
+        <texture id="YOU_LOST" source="you_lost.png"/>
+    </special_scene>
+
+</textures>

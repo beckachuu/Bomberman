@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<textures>
+		<group type="Tile" commonSource="res/UI/image/stage/jungle/">
+			<texture id="WALL" fileName="tree.png"/>
+			<texture id="GRASS" fileName="grass.png"/>
+			<texture id="BRICK" fileName="leaf.png"/>
+			<texture id="BRICK_EXP_0" fileName="leaf_exp_0.png"/>
+			<texture id="BRICK_EXP_1" fileName="leaf_exp_1.png"/>
+			<texture id="BRICK_EXP_2" fileName="leaf_exp_2.png"/>
+			<texture id="BRICK_EXP_3" fileName="leaf_exp_3.png"/>
+			<texture id="PORTAL_CLOSE" fileName="portal_close.png"/>
+			<texture id="PORTAL_OPEN" fileName="portal_open.png"/>
+		</group>
+
+		<group type="Dummy" commonSource="res/UI/image/character/dummy/">
+			<texture id="DUMMY_MOVE_0" fileName="move0.png"/>
+			<texture id="DUMMY_MOVE_1" fileName="move1.png"/>
+			<texture id="DUMMY_MOVE_2" fileName="move2.png"/>
+			<texture id="DUMMY_MOVE_3" fileName="move3.png"/>
+			<texture id="DUMMY_MOVE_4" fileName="move4.png"/>
+			<texture id="DUMMY_MOVE_5" fileName="move5.png"/>
+			<texture id="DUMMY_MOVE_6" fileName="move6.png"/>
+			<texture id="DUMMY_MOVE_7" fileName="move7.png"/>
+
+			<texture id="DUMMY_DIE_0" fileName="die0.png"/>
+			<texture id="DUMMY_DIE_1" fileName="die1.png"/>
+			<texture id="DUMMY_DIE_2" fileName="die2.png"/>
+		</group>
+	</textures>
+
+	<map id="1" tileSize="64" tileWidth="31" tileHeight="13">
+		<data encoding="custom">
+###############################
+#  * *        *  ** * *      *#
+# #x# # #*# # #*# # # # # #*# #
+#   1* * * * **      *    **  #
+# #1# # # # # # # # # # # # #*#
+#p1*  1    *     **      *  **#
+# # #*# # # # # #*#*#*#*# # # #
+# 1 * 1      *   * *** *      #
+# # # # #*# # # # # # #*# #*# #
+#  1****         *            #
+# # # # # # # # # #*# # # # #*#
+#  ** *   *                   #
+###############################
+</data>
+	</map>
+
+</level>

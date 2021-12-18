@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maps>
+
+	<textures>
+		<texture id="WALL" source="res/UI/image/stage/village/house.png"/>
+		<texture id="BRICK" source="res/UI/image/stage/village/bush.png"/>
+		<texture id="PORTAL_CLOSE" source="res/UI/image/stage/village/well_close.png"/>
+		<texture id="PORTAL_OPEN" source="res/UI/image/stage/village/well_open.png"/>
+		<texture id="GRASS" source="res/UI/image/stage/village/rocky_road.png"/>
+		
+		<texture id="BOSS_MOVE_UP_0" source="res/UI/image/character/boss/up0.png"/>
+		<texture id="BOSS_MOVE_UP_1" source="res/UI/image/character/boss/up1.png"/>
+		<texture id="BOSS_MOVE_UP_2" source="res/UI/image/character/boss/up2.png"/>
+		
+		<texture id="BOSS_MOVE_DOWN_0" source="res/UI/image/character/boss/down0.png"/>
+		<texture id="BOSS_MOVE_DOWN_1" source="res/UI/image/character/boss/down1.png"/>
+		<texture id="BOSS_MOVE_DOWN_2" source="res/UI/image/character/boss/down2.png"/>
+		
+		<texture id="BOSS_MOVE_LEFT_0" source="res/UI/image/character/boss/left0.png"/>
+		<texture id="BOSS_MOVE_LEFT_1" source="res/UI/image/character/boss/left1.png"/>
+		<texture id="BOSS_MOVE_LEFT_2" source="res/UI/image/character/boss/left2.png"/>
+		
+		<texture id="BOSS_MOVE_RIGHT_0" source="res/UI/image/character/boss/right0.png"/>
+		<texture id="BOSS_MOVE_RIGHT_1" source="res/UI/image/character/boss/right1.png"/>
+		<texture id="BOSS_MOVE_RIGHT_2" source="res/UI/image/character/boss/right2.png"/>
+		
+	</textures>
+
+  <map tileSize="64" tileWidth="31" tileHeight="13">
+    <data encoding="custom">
+###################
+#p                #
+#                 #
+#    #   #   #    #
+#                 #
+#                 #
+#    #   #   #    #
+#                 #
+#                 #
+#    #   #   #    #
+#              4  #
+#                 #
+###################
+</data>
+  </map>
+</maps>

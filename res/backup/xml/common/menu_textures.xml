@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textures commonSource="res/UI/image/menu/">
+	<texture id="BKG_CLOUD" fileName="bkg_cloud.png"/>
+	<texture id="BKG_FOREST" fileName="bkg_forest.png"/>
+	
+	<texture id="GAME_TITLE" fileName="title.png"/>
+	<texture id="OPTION_BAR" fileName="option_bar.png"/>
+	
+	<texture id="PLAY_NORMAL" fileName="play_normal.png"/>
+	<texture id="PLAY_HOVER" fileName="play_hover.png"/>
+	
+	<texture id="INS_NORMAL" fileName="ins_normal.png"/>
+	<texture id="INS_HOVER" fileName="ins_hover.png"/>
+	
+	<texture id="QUIT_NORMAL" fileName="quit_normal.png"/>
+	<texture id="QUIT_HOVER" fileName="quit_hover.png"/>
+</textures>

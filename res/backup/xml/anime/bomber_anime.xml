@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+	<sequence id="BOMBER_MOVE_UP" frameCount="8" speed="300" width="64" height="64" bufferX="-13" bufferY="-17" bufferW="34" bufferH="13">
+		<frame textureID ="BOMBER_MOVE_UP_0"/>
+		<frame textureID ="BOMBER_MOVE_UP_1"/>
+		<frame textureID ="BOMBER_MOVE_UP_2"/>
+		<frame textureID ="BOMBER_MOVE_UP_3"/>
+		<frame textureID ="BOMBER_MOVE_UP_4"/>
+		<frame textureID ="BOMBER_MOVE_UP_5"/>
+		<frame textureID ="BOMBER_MOVE_UP_6"/>
+		<frame textureID ="BOMBER_MOVE_UP_7"/>
+	</sequence>
+
+	<sequence id="BOMBER_MOVE_DOWN" frameCount="8" speed="300" width="64" height="64" bufferX="-13" bufferY="-17" bufferW="34" bufferH="13">
+		<frame textureID ="BOMBER_MOVE_DOWN_0"/>
+		<frame textureID ="BOMBER_MOVE_DOWN_1"/>
+		<frame textureID ="BOMBER_MOVE_DOWN_2"/>
+		<frame textureID ="BOMBER_MOVE_DOWN_3"/>
+		<frame textureID ="BOMBER_MOVE_DOWN_4"/>
+		<frame textureID ="BOMBER_MOVE_DOWN_5"/>
+		<frame textureID ="BOMBER_MOVE_DOWN_6"/>
+		<frame textureID ="BOMBER_MOVE_DOWN_7"/>
+	</sequence>
+
+	<sequence id="BOMBER_MOVE_LEFT" frameCount="8" speed="300" width="64" height="64" bufferX="-18" bufferY="-15" bufferW="36" bufferH="17">
+		<frame textureID ="BOMBER_MOVE_LEFT_0"/>
+		<frame textureID ="BOMBER_MOVE_LEFT_1"/>
+		<frame textureID ="BOMBER_MOVE_LEFT_2"/>
+		<frame textureID ="BOMBER_MOVE_LEFT_3"/>
+		<frame textureID ="BOMBER_MOVE_LEFT_4"/>
+		<frame textureID ="BOMBER_MOVE_LEFT_5"/>
+		<frame textureID ="BOMBER_MOVE_LEFT_6"/>
+		<frame textureID ="BOMBER_MOVE_LEFT_7"/>
+	</sequence>
+	
+	<sequence id="BOMBER_MOVE_RIGHT" frameCount="8" speed="300" width="64" height="64" bufferX="-18" bufferY="-15" bufferW="36" bufferH="17">
+		<frame textureID ="BOMBER_MOVE_RIGHT_0"/>
+		<frame textureID ="BOMBER_MOVE_RIGHT_1"/>
+		<frame textureID ="BOMBER_MOVE_RIGHT_2"/>
+		<frame textureID ="BOMBER_MOVE_RIGHT_3"/>
+		<frame textureID ="BOMBER_MOVE_RIGHT_4"/>
+		<frame textureID ="BOMBER_MOVE_RIGHT_5"/>
+		<frame textureID ="BOMBER_MOVE_RIGHT_6"/>
+		<frame textureID ="BOMBER_MOVE_RIGHT_7"/>
+	</sequence>
+	
+	<sequence id="BOMBER_DIE" frameCount="6" speed="500" width="64" height="64" bufferX="-18" bufferY="-15" bufferW="36" bufferH="17">
+		<frame textureID ="BOMBER_DIE_0"/>
+		<frame textureID ="BOMBER_DIE_1"/>
+		<frame textureID ="BOMBER_DIE_2"/>
+		<frame textureID ="BOMBER_DIE_3"/>
+		<frame textureID ="BOMBER_DIE_4"/>
+		<frame textureID ="BOMBER_DIE_5"/>
+	</sequence>
+	
+	<sequence id="BOMBER_IDLE_UP" frameCount="1" speed="300" width="64" height="64" bufferX="-13" bufferY="-17" bufferW="34" bufferH="13">
+		<frame textureID ="BOMBER_IDLE_UP_0"/>
+	</sequence>
+	
+	<sequence id="BOMBER_IDLE_DOWN" frameCount="1" speed="300" width="64" height="64" bufferX="-13" bufferY="-17" bufferW="34" bufferH="13">
+		<frame textureID ="BOMBER_IDLE_DOWN_0"/>
+	</sequence>
+	
+	<sequence id="BOMBER_IDLE_LEFT" frameCount="1" speed="300" width="64" height="64" bufferX="-18" bufferY="-15" bufferW="36" bufferH="17">
+		<frame textureID ="BOMBER_IDLE_LEFT_0"/>
+	</sequence>
+	
+	<sequence id="BOMBER_IDLE_RIGHT" frameCount="1" speed="300" width="64" height="64" bufferX="-18" bufferY="-15" bufferW="36" bufferH="17">
+		<frame textureID ="BOMBER_IDLE_RIGHT_0"/>
+	</sequence>
+
+</animations>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<textures>
+		
+		<group type="Tile" commonSource="res/UI/image/stage/village/">
+			<texture id="WALL" fileName="house.png"/>
+			<texture id="BRICK" fileName="bush.png"/>
+			<texture id="GRASS" fileName="rocky_road.png"/>
+		</group>
+		
+		<group type="Boss" commonSource="res/UI/image/character/boss/">
+			<texture id="BOSS_MOVE_UP_0" fileName="up0.png"/>
+			<texture id="BOSS_MOVE_UP_1" fileName="up1.png"/>
+			<texture id="BOSS_MOVE_UP_2" fileName="up2.png"/>
+
+			<texture id="BOSS_MOVE_DOWN_0" fileName="down0.png"/>
+			<texture id="BOSS_MOVE_DOWN_1" fileName="down1.png"/>
+			<texture id="BOSS_MOVE_DOWN_2" fileName="down2.png"/>
+
+			<texture id="BOSS_MOVE_LEFT_0" fileName="left0.png"/>
+			<texture id="BOSS_MOVE_LEFT_1" fileName="left1.png"/>
+			<texture id="BOSS_MOVE_LEFT_2" fileName="left2.png"/>
+
+			<texture id="BOSS_MOVE_RIGHT_0" fileName="right0.png"/>
+			<texture id="BOSS_MOVE_RIGHT_1" fileName="right1.png"/>
+			<texture id="BOSS_MOVE_RIGHT_2" fileName="right2.png"/>
+		</group>
+
+	</textures>
+
+  <map id="3" tileSize="64" tileWidth="31" tileHeight="13">
+    <data encoding="custom">
+###################
+#p                #
+#                 #
+#    #   #   #    #
+#                 #
+#                 #
+#    #   #   #    #
+#                 #
+#                 #
+#    #   #   #    #
+#              4  #
+#                 #
+###################
+</data>
+  </map>
+</level>

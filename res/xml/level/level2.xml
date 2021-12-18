@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<textures>
+		<group type="Tile" commonSource="res/UI/image/stage/village/">
+			<texture id="WALL" fileName="house.png"/>
+			<texture id="BRICK" fileName="bush.png"/>
+			<texture id="BRICK_EXP_0" fileName="bush_burned_0.png"/>
+			<texture id="BRICK_EXP_1" fileName="bush_burned_1.png"/>
+			<texture id="BRICK_EXP_2" fileName="bush_burned_2.png"/>
+			<texture id="BRICK_EXP_3" fileName="bush_burned_3.png"/>
+			<texture id="PORTAL_CLOSE" fileName="well_close.png"/>
+			<texture id="PORTAL_OPEN" fileName="well_open.png"/>
+			<texture id="GRASS" fileName="rocky_road.png"/>
+		</group>
+		
+		<group type="Skeleton" commonSource="res/UI/image/character/skeleton/">
+			<texture id="SKELETON_MOVE_UP_0" fileName="up0.png"/>
+			<texture id="SKELETON_MOVE_UP_1" fileName="up1.png"/>
+			<texture id="SKELETON_MOVE_UP_2" fileName="up2.png"/>
+			<texture id="SKELETON_MOVE_UP_3" fileName="up3.png"/>
+			<texture id="SKELETON_MOVE_UP_4" fileName="up4.png"/>
+			<texture id="SKELETON_MOVE_UP_5" fileName="up5.png"/>
+			<texture id="SKELETON_MOVE_UP_6" fileName="up6.png"/>
+			<texture id="SKELETON_MOVE_UP_7" fileName="up7.png"/>
+
+			<texture id="SKELETON_MOVE_DOWN_0" fileName="down0.png"/>
+			<texture id="SKELETON_MOVE_DOWN_1" fileName="down1.png"/>
+			<texture id="SKELETON_MOVE_DOWN_2" fileName="down2.png"/>
+			<texture id="SKELETON_MOVE_DOWN_3" fileName="down3.png"/>
+			<texture id="SKELETON_MOVE_DOWN_4" fileName="down4.png"/>
+			<texture id="SKELETON_MOVE_DOWN_5" fileName="down5.png"/>
+			<texture id="SKELETON_MOVE_DOWN_6" fileName="down6.png"/>
+			<texture id="SKELETON_MOVE_DOWN_7" fileName="down7.png"/>
+
+			<texture id="SKELETON_MOVE_LEFT_0" fileName="left0.png"/>
+			<texture id="SKELETON_MOVE_LEFT_1" fileName="left1.png"/>
+			<texture id="SKELETON_MOVE_LEFT_2" fileName="left2.png"/>
+			<texture id="SKELETON_MOVE_LEFT_3" fileName="left3.png"/>
+			<texture id="SKELETON_MOVE_LEFT_4" fileName="left4.png"/>
+			<texture id="SKELETON_MOVE_LEFT_5" fileName="left5.png"/>
+			<texture id="SKELETON_MOVE_LEFT_6" fileName="left6.png"/>
+			<texture id="SKELETON_MOVE_LEFT_7" fileName="left7.png"/>
+
+			<texture id="SKELETON_MOVE_RIGHT_0" fileName="right0.png"/>
+			<texture id="SKELETON_MOVE_RIGHT_1" fileName="right1.png"/>
+			<texture id="SKELETON_MOVE_RIGHT_2" fileName="right2.png"/>
+			<texture id="SKELETON_MOVE_RIGHT_3" fileName="right3.png"/>
+			<texture id="SKELETON_MOVE_RIGHT_4" fileName="right4.png"/>
+			<texture id="SKELETON_MOVE_RIGHT_5" fileName="right5.png"/>
+			<texture id="SKELETON_MOVE_RIGHT_6" fileName="right6.png"/>
+			<texture id="SKELETON_MOVE_RIGHT_7" fileName="right7.png"/>
+
+			<texture id="SKELETON_DIE_0" fileName="die0.png"/>
+			<texture id="SKELETON_DIE_1" fileName="die1.png"/>
+			<texture id="SKELETON_DIE_2" fileName="die2.png"/>
+			<texture id="SKELETON_DIE_3" fileName="die3.png"/>
+			<texture id="SKELETON_DIE_4" fileName="die4.png"/>
+			<texture id="SKELETON_DIE_5" fileName="die5.png"/>
+		</group>
+
+	</textures>
+
+  <map id="2" tileSize="64" tileWidth="31" tileHeight="13">
+    <data encoding="custom">
+###############################
+#p   ** **    *               #
+# # # #*# # # # # # # # # # # #
+#*     x* * *  *   * **   *   #
+# # # # # #*# # # # # # #*# # #
+#*   * *2   *** *   **        #
+# # # # # # # # # # # # # #*# #
+#   2*     *        *    **   #
+# #*# # #*#*#*#*# # # # # #*# #
+#2       *   * *    *   *     #
+#*# # # # # # # # # # #*# # #*#
+# *    * **    ** ***         #
+###############################
+</data>
+  </map>
+</level>

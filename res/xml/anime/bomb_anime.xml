@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+	
+	<sequence id="BOMB" frameCount="7" speed="300" width="64" height="64" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+		<frame textureID="BOMB_0"/>
+		<frame textureID="BOMB_1"/>
+		<frame textureID="BOMB_2"/>
+		<frame textureID="BOMB_3"/>
+		<frame textureID="BOMB_4"/>
+		<frame textureID="BOMB_5"/>
+		<frame textureID="BOMB_6"/>
+	</sequence>
+	
+	<sequence id="BOMB_EXP" frameCount="1" speed="100" width="64" height="64" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+		<frame textureID="BOMB_EXP"/>
+	</sequence>
+
+</animations>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maps>
+
+	<textures>
+		<texture id="WALL" source="res/UI/image/stage/castle/chest.png"/>
+		<texture id="BRICK" source="res/UI/image/stage/castle/skull.png"/>
+		<texture id="BRICK_EXP_0" source="res/UI/image/stage/jungle/skull_burned_0.png"/>
+		<texture id="BRICK_EXP_1" source="res/UI/image/stage/jungle/skull_burned_1.png"/>
+		<texture id="BRICK_EXP_2" source="res/UI/image/stage/jungle/skull_burned_2.png"/>
+		<texture id="BRICK_EXP_3" source="res/UI/image/stage/jungle/skull_burned_3.png"/>
+		<texture id="PORTAL_CLOSE" source="res/UI/image/stage/castle/door_close.png"/>
+		<texture id="PORTAL_OPEN" source="res/UI/image/stage/castle/door_open.png"/>
+		<texture id="GRASS" source="res/UI/image/stage/castle/floor.png"/>
+		
+		<texture id="SHAMAN_MOVE_UP_0" source="res/UI/image/character/shaman/up0.png"/>
+		<texture id="SHAMAN_MOVE_UP_1" source="res/UI/image/character/shaman/up1.png"/>
+		<texture id="SHAMAN_MOVE_UP_2" source="res/UI/image/character/shaman/up2.png"/>
+		<texture id="SHAMAN_MOVE_UP_3" source="res/UI/image/character/shaman/up3.png"/>
+		<texture id="SHAMAN_MOVE_UP_4" source="res/UI/image/character/shaman/up4.png"/>
+		<texture id="SHAMAN_MOVE_UP_5" source="res/UI/image/character/shaman/up5.png"/>
+		<texture id="SHAMAN_MOVE_UP_6" source="res/UI/image/character/shaman/up6.png"/>
+		<texture id="SHAMAN_MOVE_UP_7" source="res/UI/image/character/shaman/up7.png"/>
+
+		<texture id="SHAMAN_MOVE_DOWN_0" source="res/UI/image/character/shaman/down0.png"/>
+		<texture id="SHAMAN_MOVE_DOWN_1" source="res/UI/image/character/shaman/down1.png"/>
+		<texture id="SHAMAN_MOVE_DOWN_2" source="res/UI/image/character/shaman/down2.png"/>
+		<texture id="SHAMAN_MOVE_DOWN_3" source="res/UI/image/character/shaman/down3.png"/>
+		<texture id="SHAMAN_MOVE_DOWN_4" source="res/UI/image/character/shaman/down4.png"/>
+		<texture id="SHAMAN_MOVE_DOWN_5" source="res/UI/image/character/shaman/down5.png"/>
+		<texture id="SHAMAN_MOVE_DOWN_6" source="res/UI/image/character/shaman/down6.png"/>
+		<texture id="SHAMAN_MOVE_DOWN_7" source="res/UI/image/character/shaman/down7.png"/>
+
+		<texture id="SHAMAN_MOVE_LEFT_0" source="res/UI/image/character/shaman/left0.png"/>
+		<texture id="SHAMAN_MOVE_LEFT_1" source="res/UI/image/character/shaman/left1.png"/>
+		<texture id="SHAMAN_MOVE_LEFT_2" source="res/UI/image/character/shaman/left2.png"/>
+		<texture id="SHAMAN_MOVE_LEFT_3" source="res/UI/image/character/shaman/left3.png"/>
+		<texture id="SHAMAN_MOVE_LEFT_4" source="res/UI/image/character/shaman/left4.png"/>
+		<texture id="SHAMAN_MOVE_LEFT_5" source="res/UI/image/character/shaman/left5.png"/>
+		<texture id="SHAMAN_MOVE_LEFT_6" source="res/UI/image/character/shaman/left6.png"/>
+		<texture id="SHAMAN_MOVE_LEFT_7" source="res/UI/image/character/shaman/left7.png"/>
+		
+		<texture id="SHAMAN_MOVE_RIGHT_0" source="res/UI/image/character/shaman/right0.png"/>
+		<texture id="SHAMAN_MOVE_RIGHT_1" source="res/UI/image/character/shaman/right1.png"/>
+		<texture id="SHAMAN_MOVE_RIGHT_2" source="res/UI/image/character/shaman/right2.png"/>
+		<texture id="SHAMAN_MOVE_RIGHT_3" source="res/UI/image/character/shaman/right3.png"/>
+		<texture id="SHAMAN_MOVE_RIGHT_4" source="res/UI/image/character/shaman/right4.png"/>
+		<texture id="SHAMAN_MOVE_RIGHT_5" source="res/UI/image/character/shaman/right5.png"/>
+		<texture id="SHAMAN_MOVE_RIGHT_6" source="res/UI/image/character/shaman/right6.png"/>
+		<texture id="SHAMAN_MOVE_RIGHT_7" source="res/UI/image/character/shaman/right7.png"/>
+		
+		<texture id="SHAMAN_DIE_0" source="res/UI/image/character/shaman/die0.png"/>
+		<texture id="SHAMAN_DIE_1" source="res/UI/image/character/shaman/die1.png"/>
+		<texture id="SHAMAN_DIE_2" source="res/UI/image/character/shaman/die2.png"/>
+		<texture id="SHAMAN_DIE_3" source="res/UI/image/character/shaman/die3.png"/>
+		<texture id="SHAMAN_DIE_4" source="res/UI/image/character/shaman/die4.png"/>
+		<texture id="SHAMAN_DIE_5" source="res/UI/image/character/shaman/die5.png"/>
+	
+	</textures>
+
+  <map tileSize="64" tileWidth="31" tileHeight="13">
+    <data encoding="custom">
+###############################
+#p * * 3      *  ** * *      *#
+# # # # #*# # #*# # # # # #*# #
+#    * * *** **      *    **  #
+# #*# # # # # # # # # # # # #*#
+#          *     **      *  **#
+# # #*# # # # # #*#*#*#*# # # #
+#   x 3      *   * * * *      #
+# # # # #*# # # # # # #*# #*# #
+#   ****         *            #
+# # # # # # # # # #*# # # # #*#
+#  ** *   *                   #
+###############################
+</data>
+  </map>
+</maps>

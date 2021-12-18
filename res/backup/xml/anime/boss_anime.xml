@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+	
+	<sequence id="BOSS_MOVE_UP" frameCount="3" speed="1000" width="128" height="128" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+		<frame textureID ="BOSS_MOVE_UP_0"/>
+		<frame textureID ="BOSS_MOVE_UP_1"/>
+		<frame textureID ="BOSS_MOVE_UP_2"/>
+	</sequence>
+
+	<sequence id="BOSS_MOVE_DOWN" frameCount="3" speed="1000" width="128" height="128" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+		<frame textureID ="BOSS_MOVE_DOWN_0"/>
+		<frame textureID ="BOSS_MOVE_DOWN_1"/>
+		<frame textureID ="BOSS_MOVE_DOWN_2"/>
+	</sequence>
+
+	<sequence id="BOSS_MOVE_LEFT" frameCount="3" speed="1000" width="128" height="128" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+		<frame textureID ="BOSS_MOVE_LEFT_0"/>
+		<frame textureID ="BOSS_MOVE_LEFT_1"/>
+		<frame textureID ="BOSS_MOVE_LEFT_2"/>
+	</sequence>
+	
+	<sequence id="BOSS_MOVE_RIGHT" frameCount="3" speed="1000" width="128" height="128" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+		<frame textureID ="BOSS_MOVE_RIGHT_0"/>
+		<frame textureID ="BOSS_MOVE_RIGHT_1"/>
+		<frame textureID ="BOSS_MOVE_RIGHT_2"/>
+	</sequence>
+
+</animations>

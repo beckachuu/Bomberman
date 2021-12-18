@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audios>
+    <group type="BKG" commonSource="res/sound/bkg/">
+        <audio id="INTRO" fileName="Intro.mp3"/>
+        <audio id="1" fileName="Forest Imps Inn (forest stage).mp3"/>
+        <audio id="2" fileName="The Captain_s Inn (village stage).mp3"/>
+        <audio id="3" fileName="Frostblade Inn (castle stage).mp3"/>
+        <audio id="CUSTOM" fileName="Two Moons Inn (suitable for all 3 stages).mp3"/>
+     </group>
+	 
+	 <group type="SFX" commonSource="res/sound/sfx/">
+
+        <audio id="BUTTON_HOVER" fileName="button_hover.mp3"/>
+		
+        <audio id="BOMB_EXPLODE" fileName="bomb_explode.mp3"/>
+		
+        <audio id="BOMBER_WALK" fileName="bomber_walk.mp3"/>
+        <audio id="BOMBER_DIE" fileName="bomber_die.mp3"/>
+		
+        <audio id="DUMMY_IDLE" fileName="dummy_idle.mp3"/>
+        <audio id="DUMMY_DIE" fileName="dummy_die.mp3"/>
+		<audio id="DUMMY_SCREAM" fileName="dummy_scream.mp3"/>
+		
+		<audio id="SKELETON_WALK" fileName="skeleton_walk.mp3"/>
+        <audio id="SKELETON_DIE" fileName="skeleton_die.mp3"/>
+
+         <audio id="DEFEAT" fileName="defeat.mp3"/>
+         <audio id="VICTORY" fileName="victory.mp3"/>
+    </group>
+
+</audios>

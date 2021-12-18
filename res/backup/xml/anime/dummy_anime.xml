@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+
+    <sequence id="DUMMY_MOVE" frameCount="8" speed="500" width="64" height="64" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+        <frame textureID="DUMMY_MOVE_0"/>
+        <frame textureID="DUMMY_MOVE_1"/>
+        <frame textureID="DUMMY_MOVE_2"/>
+        <frame textureID="DUMMY_MOVE_3"/>
+        <frame textureID="DUMMY_MOVE_4"/>
+        <frame textureID="DUMMY_MOVE_5"/>
+        <frame textureID="DUMMY_MOVE_6"/>
+        <frame textureID="DUMMY_MOVE_7"/>
+    </sequence>
+
+    <sequence id="DUMMY_DIE" frameCount="3" speed="500" width="64" height="64" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+        <frame textureID="DUMMY_DIE_0"/>
+        <frame textureID="DUMMY_DIE_1"/>
+        <frame textureID="DUMMY_DIE_2"/>
+    </sequence>
+
+</animations>

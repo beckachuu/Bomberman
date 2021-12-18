@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+	
+	<sequence id="BRICK_EXP" frameCount="4" speed="500" width="64" height="64" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+		<frame textureID="BRICK_EXP_0"/>
+		<frame textureID="BRICK_EXP_1"/>
+		<frame textureID="BRICK_EXP_2"/>
+		<frame textureID="BRICK_EXP_3"/>
+	</sequence>
+	
+	<sequence id="BRICK_NORMAL" frameCount="1" speed="500" width="64" height="64" bufferX="0" bufferY="0" bufferW="0" bufferH="0">
+		<frame textureID="BRICK"/>
+	</sequence>
+
+</animations>
