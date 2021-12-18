@@ -8,8 +8,8 @@
 Direction: ↑, ↓, ←, → <br/>
 Bomb: SPACE
 
-## AI
-Bomber will automatically play
+### AI:
+Autoplay
 
 ## Instruction
 ENTER: Move to next stage (after enter portal) <br/>
