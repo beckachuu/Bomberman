@@ -1,20 +1,29 @@
-# BombermanGame
+<div align='center'>
+    <h1><b> Bomberman Game </b></h1>
+    <img src='Bomberman.png'/>
+</div>
 
-## Preview
-![Bomberman](Bomberman.png)
+## Modes
+### Normal-play:
+Use your keyboard and try to survive while exploring the maps.
 
-## Mode
-### Play:
-Direction: ↑, ↓, ←, → <br/>
-Bomb: SPACE
-
-### AI:
-Autoplay
+### Autoplay:
+Sit back and watch the AIBomber take over the game.
+- A-star algorithm: helps the hero find the shortest path to defeat the nearest enemy or reach the portal.
+- SMMAX: guides the hero towards their destination (either an enemy or the portal) when no path is found by the A-star algorithm.
 
 ## Instruction
-ENTER: Move to next stage (after enter portal) <br/>
-R: Play again (after enter portal) <br/>
-ESC: Exit game to main menu
+- Direction: ↑, ↓, ←, → <br/>
+- Bomb: SPACE <br/>
+
+- ENTER: Move to next stage (after entering portal) <br/>
+- R: Play again (after entering portal) <br/>
+- ESC: Exit the game to the main menu
 
 ## Class diagram
 ![Bomberman](Diagram.png)
+
+## Contributors
+- Bui Huu Viet Hung
+- Nguyen Hai Phong
+- Vu Ha Minh Trang
